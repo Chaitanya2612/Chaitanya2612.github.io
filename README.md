@@ -1,5 +1,5 @@
 # ChaitanyaGithub2612.github.io
- 
+
 | <h1> Hello. My name is chaitanya Gupta, and welcome to my Github Resume. |
 | :----------------------------------------------------------------------: |
 | <h2> All of the following below are parts of My Resume. |
