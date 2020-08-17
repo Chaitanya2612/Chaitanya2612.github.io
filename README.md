@@ -10,5 +10,5 @@
 [Apps/Games](  )
    
 <p align="center">
-  <img width="975"height="600" src="![Capture](https://user-images.githubusercontent.com/69607825/90445750-02cd9d80-e095-11ea-9470-2b3b03817aed.PNG)">
+  <img width="975"height="600" src="https://user-images.githubusercontent.com/69607825/90445750-02cd9d80-e095-11ea-9470-2b3b03817aed.PNG">
 </p>
