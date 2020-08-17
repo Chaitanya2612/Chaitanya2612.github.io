@@ -5,4 +5,4 @@
 [Experience](  )<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 [Apps/Games](  )
    
-  ![Capture](https://user-images.githubusercontent.com/69607825/90447009-49bc9280-e097-11ea-9fcd-189dd75d0a5b.PNG)
+![Capture](https://user-images.githubusercontent.com/69607825/90447009-49bc9280-e097-11ea-9fcd-189dd75d0a5b.PNG)
